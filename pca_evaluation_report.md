@@ -70,10 +70,10 @@ low_income_model = RandomForestRegressor()
 
 ## Reco finale
 
-**Gardez votre approche actuelle** et ajoutez plutôt :
+**Garder l'approche actuelle** et ajouter plutôt :
 1. Feature engineering métier
 2. Analyse des seuils critiques d'adoption
 3. Modélisation spécifique par région/niveau de développement
 4. Visualisations interactives pour l'aide à la décision
 
-La PCA n'apporterait aucune valeur ajoutée à votre projet.
+La PCA n'apporterait aucune valeur ajoutée à notre projet.
